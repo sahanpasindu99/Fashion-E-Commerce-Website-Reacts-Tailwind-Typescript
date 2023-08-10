@@ -1,1 +1,1 @@
-# furniture-starter
+This is a cutting-edge fashion ecommerce website built with the powerful combination of React.js and Tailwind CSS! Get ready to embark on a stylish journey through the world of fashion, where seamless functionality meets exquisite design.
